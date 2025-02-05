@@ -45,13 +45,21 @@ style = "github-dark"
   icon = "fa-brands fa-github fa-2x"
   weight = 1
   url = "https://github.com/lgmontenegro/"
-  
-# Menu links
-[[menu.main]]
-  name = "Blog"
+
+  [[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-Linkedin fa-2x"
   weight = 1
-  url  = "posts/"
+  url = "https://github.com/lgmontenegro/"
+
+# Menu links
 [[menu.main]]
   name = "About"
   weight = 2
   url = "about/"
+
+[languages.en]
+  languageName = ":uk:"
+
+[languages.pt]
+  languageName = ":pt:"
