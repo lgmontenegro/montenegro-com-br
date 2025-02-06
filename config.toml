@@ -12,11 +12,11 @@ pagerSize = 20
 style = "github-dark"
 
 [params]
-  author = "Leonardo Montenegro"
-  info = "My Happy Sad Life"
-  description = "Let's talk about..."
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpeg"
+  author = "Leonardo Gonçalves Montenegro"
+  info = "01010111 01100101 01101100 01100011 01101111 01101101 01100101 00100001"
+  description = "48 61 76 65 20 61 20 73 65 61 74 21"
+  keywords = "blog,developer,personal,leonardo,montenegro,php,go,golang,symfony,laravel,wordpress"
+  avatarurl = "images/avatar.png"
   
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -30,6 +30,7 @@ style = "github-dark"
   hidecolorschemetoggle = false
 
   # customCSS = ["css/custom.css"]
+  
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
@@ -46,20 +47,14 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/lgmontenegro/"
 
-  [[params.social]]
+[[params.social]]
   name = "LinkedIn"
-  icon = "fa-brands fa-Linkedin fa-2x"
+  icon = "fa-brands fa-linkedin fa-2x"
   weight = 1
-  url = "https://github.com/lgmontenegro/"
+  url = "https://www.linkedin.com/in/leonardo-softeng/"
 
 # Menu links
 [[menu.main]]
   name = "About"
   weight = 2
   url = "about/"
-
-[languages.en]
-  languageName = ":uk:"
-
-[languages.pt]
-  languageName = ":pt:"
